@@ -9,10 +9,10 @@ int main(void)
 {
 	char ch;
 
-	for (h = 'z'; ch => 'a'; ch--)
+	for (ch = 'z'; ch => 'a'; ch--)
 	{
 		putchar(ch);
 	}
-	puthar('\n');
+	putchar('\n');
 	return (0);
 }
